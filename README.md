@@ -2,8 +2,11 @@ Bienvenue sur le Challenge Run Generator de TOTK.<br>
 Python 3 est nécéssaire afin d'éxécuter l'application, vous pouvez le télécharger sur [le site officiel de Python](https://www.python.org/).<br><br>
 Sur Windows, veuillez lancer le fichier generator.bat.<br>
 Sur Mac et Linux, veuillez utiliser les commandes suivantes dans un terminal situé dans le dossier du CRG :
+
 `chmod +x generator.sh`
+
 `bash generator.sh`
+
 Note : La première instruction n'est utile que la première fois. Sur macOS vous pouvez simplement l'exécuter une fois puis double-cliquer dans le Finder.
 
 <br><br>
