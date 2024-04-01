@@ -1,0 +1,225 @@
+Brochette de champis
+Délice des bois à la viande
+Délice des bois au poisson
+Brochette de viande
+Brochette de poisson
+Brochette de la mer
+Brochettes de viande
+Brochettes de poisson
+Fruits vapeur
+Tomates vapeur
+Champis vapeur
+Viande vapeur
+Poisson vapeur
+Piments sautés
+Sauté de fruits de la forêt
+Poêlée végétale
+Grande poêlée végétale
+Cayeux rôtis
+Gousse sautés
+Brochettes de champis
+Steak de venaison
+Steak de venaison fine
+Steak de venaison divine
+Crabe sauté
+Grillade terre-mer
+Grillade terre-mer fine
+Grillade terre-mer divine
+Légumes salés
+Champis salées
+Viande salée
+Viande fine salée
+Viande divine salée
+Poisson salé
+Crabe salé
+Sauté aux herbes
+Sauté de champis odorant
+Viande épicée pikpik
+Poisson grillé relevé pikpik
+Ragoût de la mer
+Pilons de volaille frits
+Cuisses de poulet frites
+Volaille frite
+Poisson meunière
+Daurade meunière
+Saumon meunière
+Assiette fruits et champis
+Chutney de fruits
+Grand chutney de fruits
+Ragoût de tomates
+Soupe à la tomate
+Ragoût tomate-champi
+Bouillabaisse
+Bouillon de légumes
+Velouté de légumes
+Velouté de champis
+Velouté de viande
+Velouté de poisson
+Velouté de cœur
+Légumes marinés enduro
+Champis marinés enduro
+Viande marinée enduro
+Poisson mariné enduro
+Curry
+Curry végétarien
+Curry de venaison
+Curry de venaison fine
+Curry de venaison divine
+Curry de volaille
+Curry de volaille fine
+Curry de volaille divine
+Curry de fruits de mer
+Curry au fromage
+Ragoût de carotte enduro
+Ragoût de citrouille
+Ragoût de viande
+Ragoût de viande fine
+Ragoût de viande divine
+Citrouille farcie protecto
+Risotto aux légumes tempo
+Risotto aux champis
+Risotto au saumon
+Risotto au crabe
+Riz frit aux crustacés
+Pilaf de volaille
+Pilaf de volaille fine
+Pilaf de volaille divine
+Paella de la mer
+Riz au curry
+Oeuf au plat au riz
+Riz frit
+Riz frit de la mer
+Riz frit oeuf-crabe
+Riz à la venaison
+Riz à la venaison fine
+Riz à la venaison divine
+Riz à la venaison gratiné
+Riz à la venaison fine gratiné
+Riz à la venaison divine gratiné
+Boulettes aux herbes
+Boulettes aux champis
+Boulettes à la viande
+Boulettes au poisson
+Gruau aux légumes
+Pain au froment
+Tartine gratinée
+Pizza à la tomate
+Tourte à la viande
+Tourte au poisson
+Tomates au fromage
+Omelette nature
+Omelette aux herbes
+Omelette aux champis
+Omelette au fromage
+Pommes au four
+Fruits au miel
+Pommes au miel
+Bonbon au miel
+Bananes frites robusto
+Flan
+Crêpe
+Crêpe aux baies
+Crêpe au miel enduro
+Gâteau aux graines
+Gâteau aux fruits
+Gâteau à la carotte enduro
+Gâteau à la citrouille
+Gâteau au fromage
+Cheesecake
+Tarte aux fruits
+Tarte aux pommes
+Tarte aux oeufs
+Lait chaud
+Vaï Meets Voï
+Ragoût de monstre
+Soupe de monstre
+Curry au monstre
+Boulettes au monstre
+Gâteau au monstre
+Ragoût de génie
+Soupe de génie
+Curry de génie
+Boulettes de génie salvatis
+Gâteau de génie
+Plat douteux
+Plat brise dent
+Pomme grillée
+Pomme dorée grillée
+Piment grillé
+Grappe de tomates grillées
+Baie grillée
+Fruit volt grillé
+Melon glagla grillé
+Noix de coco grillée
+Bananes lames grillées
+Fruit du lotus tempo grillé
+Fleur lame grillée
+Fleur armo grillée
+Carotte tempo grillée
+Carotte enduro grillée
+Citrouille armo grillée
+Radis max grillé
+Gros radis max grillé
+Champi céleste grillé
+Champi d’Hyrule grillé
+Champi enduro grillé
+Champi tempo grillé
+Champi piment grillé
+Champi glagla grillé
+Champi volt grillé
+Champi lame grillé
+Champi armo grillé
+Champi silencio grillé
+Champi lumos grillé
+Truffe max grillée
+Grosse truffe max grillée
+Viande grillée
+Viande fine grillée
+Viande divine grillée
+Volaille grillée
+Volaille fine grillée
+Volaille divine grillée
+Arowana grillé
+Perche grillée
+Truite grillée
+Carpe grillée
+Daurade grillée
+Troglodus grillé
+Perche max grillée
+Saumon max grillé
+Crabe grillé
+Escargot silencio grillé
+Fruit grillé
+Gland grillé
+Oeuf grillé
+Oeuf dur
+Viande congelée
+Viande fine congelée
+Viande divine congelée
+Volaille congelée
+Volaille fine congelée
+Volaille divine congelée
+Arowana congelé
+Perche congelée
+Truite congelée
+Carpe congelée
+Daurade congelée
+Troglodus congelé
+Perche max congelée
+Saumon max congelé
+Crabe congelé
+Escargot silencio congelé
+Remède enduro
+Remède tempo
+Remède pikpik
+Remède glagla
+Remède électro
+Remède ignifus
+Remède robusto
+Remède protecto
+Remède silencio
+Remède adhésio
+Remède lumos
+Remède vitalis
+Remède max
+Élixir féerique.
